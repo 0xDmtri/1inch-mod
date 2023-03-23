@@ -1,0 +1,23 @@
+{
+  "name": "1inch",
+  "version": "1.0.0",
+  "description": "1inch module for Let's Earn",
+  "main": "index.js",
+  "repository": "https://github.com/0xDmtri/1inch",
+  "author": "0xDmtri",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.15.5",
+    "@typescript-eslint/eslint-plugin": "^5.56.0",
+    "eslint": "^8.36.0",
+    "ethers": "^6.2.0",
+    "isomorphic-fetch": "^3.0.0",
+    "typescript": "^5.0.2"
+  },
+  "devDependencies": {
+    "@types/isomorphic-fetch": "^0.0.36",
+    "@typescript-eslint/parser": "^5.56.0",
+    "prettier": "^2.8.6",
+    "ts-node": "^10.9.1"
+  }
+}
